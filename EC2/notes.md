@@ -50,6 +50,6 @@ ssh -i my-key.pem ec2-user@<public-ip>
 
 
 
-![EC2 Instance](./EC2/ec2-instance.jpeg)
+![EC2 Instance](ec2-instance.jpeg)
 
 
