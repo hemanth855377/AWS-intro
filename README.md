@@ -41,5 +41,7 @@ This practice helped in:
 - Understanding **AWS cloud architecture**.
 - Learning **regions, availability zones, and EC2 setup**.
 - Gaining hands-on experience in **instance launch, security, and basic server configuration**.
+## Repository Structure
+- 
 
 - 
